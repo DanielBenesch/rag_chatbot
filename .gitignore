@@ -1,0 +1,30 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local notes
+projektidee.txt
+.scratch/
+
+# Agent tooling
+.agents/
+.cursor/
+AGENTS.md
+docs/agents/
+skills-lock.json
+
+# Python
+.venv/
+__pycache__/
+mlruns/
+
+# Local dev data
+.chroma/
+.mlflow/
+.worktrees/
+
+*.pem
+*.pem*
+
+public_proofs/
